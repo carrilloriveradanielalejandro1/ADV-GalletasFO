@@ -9,7 +9,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-//ESTA ES LA VERSION BASE
 
 namespace ADV_GalletasFO
 {
